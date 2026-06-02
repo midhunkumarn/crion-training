@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Crion/Training/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Crion/Training/Scenes/MainMenue.unity
+    guid: 6d07a506bf8084b42adf002b1f96da7a
+  - enabled: 1
+    path: Assets/Crion/Training/Scenes/lightSkyScene.unity
+    guid: 26f8369f27e926342b07551d04cf1280
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
